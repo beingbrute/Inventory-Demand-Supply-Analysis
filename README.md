@@ -11,7 +11,7 @@ The project covers the complete analytics workflow—from SQL-based data validat
 
 ### 1. Inventory Overview
 
-<img width="1332" height="750" alt="inventory overview" src="https://github.com/user-attachments/assets/fa18d4cb-1e94-48eb-a44e-2eba046e240c" />
+![Inventory Overview](screenshots/01_inventory_overview.png)
 
 Provides an executive overview of demand and inventory performance.
 
@@ -32,7 +32,7 @@ The page also analyzes:
 
 ### 2. Financial Impact
 
-<img width="1330" height="745" alt="financial impact" src="https://github.com/user-attachments/assets/61d9c962-8040-4e5c-9fae-b7b0dda12b84" />
+![Financial Impact](screenshots/02_financial_impact.png)
 
 Analyzes the monetary impact of inventory shortages.
 
@@ -51,7 +51,7 @@ The page identifies:
 
 ### 3. Product Analysis
 
-<img width="1329" height="746" alt="product analysis" src="https://github.com/user-attachments/assets/32e49162-68f3-495a-a8ba-d4991701e19c" />
+![Product Analysis](screenshots/03_product_analysis.png)
 
 Provides detailed product-level inventory performance.
 
@@ -198,8 +198,7 @@ A calculated column, `Inventory Status`, classifies each inventory record into:
 - **Demand Met** — when available inventory is greater than or equal to demand.
 - **Shortage** — when demand exceeds available inventory.
 
-<img width="1108" height="634" alt="image" src="https://github.com/user-attachments/assets/ba4f60cd-7bfa-4f48-804e-b88c50eff3e4" />
-
+![Power BI Data Model](screenshots/04_data_model.png)
 ---
 
 ## Key DAX Measures
