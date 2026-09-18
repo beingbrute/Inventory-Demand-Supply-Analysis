@@ -316,3 +316,13 @@ Inventory-Demand-Supply-Analysis/
 This project demonstrates an end-to-end inventory analytics workflow covering **data validation, SQL transformation, data-quality remediation, SQL Server-to-MySQL migration, Power BI data modeling, DAX calculations, dashboard development, and business analysis**.
 
 The final solution enables users to monitor inventory fulfillment, identify shortage-prone products, evaluate demand and availability trends, quantify potential revenue exposure, and prioritize inventory decisions using both **operational and financial metrics**.
+
+
+## Author
+
+**Aditya Ranjan**
+
+Data Analyst | Python · SQL · Power BI · Tableau
+
+[LinkedIn](www.linkedin.com/in/aditya-ranjan-data) · [GitHub](https://github.com/beingbrute) · adityaranjan17302215@gmail.com
+
