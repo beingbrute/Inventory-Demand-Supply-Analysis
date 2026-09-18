@@ -67,6 +67,23 @@ Conditional formatting is used to highlight shortages, fulfillment performance, 
 
 ---
 
+## Business Impact
+
+The analysis changes how replenishment is prioritised:
+
+**1. Rank replenishment by financial exposure, not shortage units.**
+The products with the highest unfulfilled unit counts are not the products with the highest Revenue at Risk. VR Headset alone carries $12.4K of the $97.37K total exposure. Prioritising by unit shortage alone would direct attention to the wrong products.
+
+**2. Treat shortages as systemic, not incidental.**
+81 of 99 inventory records (81.82%) show some level of shortage, and the overall Demand Fulfillment Rate is 79.97%. This points to a structural planning gap rather than isolated stockouts.
+
+**3. Quantify the cost of the current service level.**
+$97.37K of the $478.73K potential demand value went unfulfilled. That figure is the business case for additional safety stock, and it can be compared directly against carrying cost.
+
+**Recommended next steps:** set reorder points for the top 10 products by Revenue at Risk, monitor Demand Fulfillment Rate and Value Fulfillment Rate together as a paired KPI, and investigate the March and November demand spikes for supplier lead-time constraints.
+
+---
+
 ## Business Problem
 
 The objective was to determine whether available inventory was sufficient to satisfy customer demand and quantify the impact of inventory shortages.
